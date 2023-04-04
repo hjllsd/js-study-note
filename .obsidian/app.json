@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "appendix",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "/.git"
+  ],
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00index",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
+}
